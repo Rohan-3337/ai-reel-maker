@@ -1,3 +1,4 @@
+"use client"
 import React, { useEffect } from 'react'
 import { AbsoluteFill, Audio, Img, interpolate, Sequence, useCurrentFrame, useVideoConfig } from 'remotion'
 
