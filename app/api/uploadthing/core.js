@@ -1,4 +1,4 @@
-import { createUploadthing } from "uploadthing/server";
+import { createUploadthing } from "uploadthing/next";
 
 const f = createUploadthing();
 
